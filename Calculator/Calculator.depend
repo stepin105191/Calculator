@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1597325658 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_Calculator.h"
+
+1597324855 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c\calculator\src\calculator.c
+	"Calculator.h"
+
+1597323112 c:\users\user\desktop\ltts doc and tasks\ltts training\c\calculator\inc\calculator.h
+	<stdbool.h>
+
+1597323385 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c\calculator\test\test_calculator.c
+	"unity.h"
+	"Calculator.h"
+
+1597306369 c:\users\user\desktop\ltts doc and tasks\ltts training\c\calculator\unity\unity.h
+	"unity_internals.h"
+
+1597306369 c:\users\user\desktop\ltts doc and tasks\ltts training\c\calculator\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597306369 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c\calculator\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597323424 c:\users\user\desktop\ltts doc and tasks\ltts training\c\calculator\test\test_calculator.h
+
